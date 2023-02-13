@@ -55,11 +55,11 @@ export const info = {
     //   icon: 'fa fa-facebook',
     //   label: 'facebook',
     // },
-    // {
-    //   link: 'https://instagram.com',
-    //   icon: 'fa fa-instagram',
-    //   label: 'instagram',
-    // },
+    {
+      link: 'https://myjsjourney.com',
+      icon: 'fa fa-pencil',
+      label: 'blog',
+    },
     {
       link: 'https://github.com/BryonVerdone',
       icon: 'fa fa-github',
@@ -70,11 +70,7 @@ export const info = {
       icon: 'fa fa-linkedin',
       label: 'linkedin',
     },
-    // {
-    //   link: 'https://twitter.com',
-    //   icon: 'fa fa-twitter',
-    //   label: 'twitter',
-    // },
+
     // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
     // Just change the links so that they lead to your social profiles.
   ],
